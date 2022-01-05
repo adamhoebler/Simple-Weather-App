@@ -1,2 +1,2 @@
 # Simple-Weather-App
-class project using api and express server 
+learning project using api, requires express and body-parser npm packages
